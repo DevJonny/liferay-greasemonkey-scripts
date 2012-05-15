@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Manage Pages CSS Re-sizer
 // @namespace  http://www.mysmallcorneroftheweb.co.uk/
-// @version    0.2
+// @version    0.3
 // @description  Script to automatically re-size the Liferay site-wide CSS box to something more useful
 // @match      http://*/*
 // @copyright  2012+, You
